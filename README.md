@@ -1,5 +1,5 @@
 ![babyybiss Banner Image](./babyybiss.png)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.babyybiss)](https://github.com/babyybiss) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/babyybiss?tab=followers)
 
 <h2>Hey! 👋</h2>
 
