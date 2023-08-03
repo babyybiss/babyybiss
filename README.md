@@ -1,11 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
-<h1 align="center">Hi 👋, I'm Hanna Lee</h1>
-<h3 align="center">A passionate Full Stack developer from Korea</h3>
+![babyybiss Banner Image](./babyybiss.png)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
+<h2>Hey! 👋</h2>
 
+I'm a passionate developer from Korea!
+
+- Currently: MSA cloud based JAVA developement student at HiMedia Edu.
+- Previously: Front End developer 
+
+<h2>💻I'm Currently working on</h2>
+- Data Base manipulation
+- Software Engineering
+
+__Check out my GitHub repository:__
+
+<h2>👀 Stats</h2>
 
 ![Babybiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyybiss&show_icons=true&theme=dracula&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babyybiss&show_icons=true&locale=en&layout=compact" alt="babyybiss" /></p>
+
+<h2>📫 How to reach me:</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,8 +28,6 @@
 <a href="https://instagram.com/babyybiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babyybiss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/babyybiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babyybiss" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babyybiss&show_icons=true&locale=en&layout=compact" alt="babyybiss" /></p>
 
 <!--
 **babyybiss/babyybiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
