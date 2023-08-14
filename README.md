@@ -6,7 +6,6 @@
 I'm a passionate developer from Korea!
 
 - Currently: MSA cloud based JAVA Full Stack developement student at HiMedia Edu.
-- Previously: Front End dev
 
 <h2>💻I'm Currently working on</h2>
 
