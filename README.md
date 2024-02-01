@@ -19,8 +19,6 @@
 
 - 🚀 Exploring foundational and advanced concepts, applying practical skills to real-world projects.
 
-- 🤔 I’m looking for help with `Competitive Programming`.
-
 - ⚡ Fun fact: I'm a tech enthusiast always on the strive to learn!
 
 - 👨‍💻 Life Hack: Action is the foundational key to all success. Stop thinking, start doing, and pave your own path :tada:
