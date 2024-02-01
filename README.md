@@ -1,9 +1,10 @@
+<span> 🇰🇷 한글 버전 : https://github.com/babyybiss/babyybiss/blob/main/README(KOR).md </span>
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Hanna Lee</h1>
 
 <div align="center">
 <img src ="babyybiss.jpg" />
 </div>
-<span> 🇰🇷 한글 버전 : https://github.com/babyybiss/babyybiss/blob/main/README(KOR).md </span>
+
 <br/>
 
 ## 👨🏻‍💻 About Me:
