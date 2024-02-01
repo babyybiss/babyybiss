@@ -1,21 +1,67 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Hanna Lee</h1>
-![babyybiss Banner Image](./babyybiss.png)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.babyybiss)](https://github.com/babyybiss) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/babyybiss?tab=followers)
 
-I'm a passionate developer from Korea!
+<div align="center">
+<img src ="babyybiss.png" />
+</div>
+<br/>
 
-- Currently: MSA cloud based JAVA Full Stack developement student at HiMedia Edu.
+## 👨🏻‍💻 About Me:
 
-<h2>💻I'm Currently working on</h2>
+- 🖐Hi there!, I'm Hanna Lee.
 
-- Data Base manipulation
+- 🙋‍♂️ I'm a passionate developer from Korea!
 
-- Software Engineering
+- 📖 I enrolled in HiMedia bootcamp.
+
+- 👨‍💻 I’m currently a `Fullstack software engineer`.
+
+- 💻 Creating dynamic, interactive websites for everyone.
+
+- 🚀 Exploring foundational and advanced concepts, applying practical skills to real-world projects.
+
+- 🤔 I’m looking for help with `Competitive Programming`.
+
+- ⚡ Fun fact: I'm a tech enthusiast always on the strive to learn!
+
+- 👨‍💻 Life Hack: Action is the foundational key to all success. Stop thinking, start doing, and pave your own path :tada:
 
 
-<h2>👀 Stats</h2>
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="50px"/>&emsp;
+<img alt="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" height="50px"/>&emsp;
+<img alt="Javascript" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"  height="50px"/>
+<br/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-38B2AC?style=for-the-badge&logo=Spring Boot&logoColor=white" height="25px"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-00C7B7?style=flat-square&logo=Spring&logoColor=white" height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white"  height="25px"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FASTAPI-20232A?style=for-the-badge&logo=FASTAPI&logoColor=61DAFB" height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Nodejst&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+</p>
+
+<div align="left">
+<h2>GitHub Stats:</h2>
+</div>            
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ![Babybiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyybiss&show_icons=true&theme=dracula&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ <br/>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babyybiss&show_icons=true&locale=en&layout=compact" alt="babyybiss" /></p>
 
