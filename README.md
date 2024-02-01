@@ -1,7 +1,6 @@
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
 ![babyybiss Banner Image](./babyybiss.png)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.babyybiss)](https://github.com/babyybiss) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/babyybiss?tab=followers)
-
-<h2>Hey! 👋</h2>
 
 I'm a passionate developer from Korea!
 
