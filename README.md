@@ -17,7 +17,7 @@
 
 - 👨‍💻 I’m currently a `Fullstack software engineer`.
 
-- 💻 Creating dynamic, interactive websites for everyone.
+- 💻 Creating dynamic, interactive websites/applications for everyone.
 
 - 🚀 Exploring foundational and advanced concepts, applying practical skills to real-world projects.
 
@@ -70,9 +70,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hanna lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanna-lee-49a832105" height="30" width="40" /></a>
-<a href="https://instagram.com/babyybiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babyybiss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/babyybiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babyybiss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@HannaofOctober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@HannaofOctober" height="30" width="40" /></a>
 </p>
 
 <!--
