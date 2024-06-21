@@ -56,7 +56,7 @@
 <div align="left">
 <h2>GitHub Stats:</h2>
 </div>            
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=babyybiss&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ![Babybiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyybiss&show_icons=true&theme=dracula&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  <br/>
